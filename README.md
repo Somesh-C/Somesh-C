@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning java full stack development
 - 💞️ I’m looking to collaborate on development job
-- 📫 How to reach me csomesh003@gmail.com
+- 📫 How to reach me E-mail: csomesh003@gmail.com LinkedIn: www.linkedin.com/in/somesh-c-430b412a2
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
